@@ -65,6 +65,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+
 ### `npm run build` fails to minify
+# OutPut
+![Screenshot (690)](https://github.com/qadirjaved1999/Complete-CRUD-in-ReactJA/assets/108120593/11f1271b-7393-456d-b2f5-fe29216085a9)
+![Screenshot (691)](https://github.com/qadirjaved1999/Complete-CRUD-in-ReactJA/assets/108120593/be9a92ed-fe1b-4f57-b42a-5499dbff48af)
+
+![Screenshot (690)](https://github.com/qadirjaved1999/Complete-CRUD-in-ReactJA/assets/108120593/1e1efef0-9cb8-4a80-b7ad-19b584783a8c)
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
